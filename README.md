@@ -20,7 +20,7 @@ El archivo del proyecto contiene:
 
 ## Descargar el Proyecto
 Si deseas acceder al archivo fuente completo del proyecto para explorarlo más a fondo, puedes descargarlo directamente desde el siguiente enlace:
-- [Descargar el archivo de Figma] (https://drive.google.com/file/d/1CiakAT1z1SD0RusOTFU8YajXkMS40s5N/view?usp=drive_link)
+- [Descargar el archivo de Figma](https://drive.google.com/file/d/1CiakAT1z1SD0RusOTFU8YajXkMS40s5N/view?usp=drive_link)
 
 ## Requisitos Técnicos
 - Sistema operativo: Compatible con Windows, macOS y Linux.

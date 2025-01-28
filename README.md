@@ -2,7 +2,6 @@
 Este proyecto contiene una aplicación interactiva diseñada para facilitar el acceso y gestión de entrenamientos y ejercicios en un entorno digital. A continuación, se describe su funcionalidad y cómo puedes acceder a los recursos.
 
 ## Descripción General
-
 La interfaz de la aplicación ofrece:
 - **Inicio de sesión y registro**: Mockup de opciones para usuarios que pueden registrarse con su correo electrónico y contraseña o iniciar sesión para acceder a sus datos.
 - **Selección de grupos musculares**: Elige fácilmente entre grupos musculares como pecho, espalda, brazos, piernas y más.
@@ -20,7 +19,6 @@ Si deseas acceder al archivo fuente completo del proyecto para explorarlo más a
 - [Descargar el archivo de Figma](https://drive.google.com/file/d/1CiakAT1z1SD0RusOTFU8YajXkMS40s5N/view?usp=drive_link)
 
 ## Requisitos Técnicos
-- Sistema operativo: Compatible con Windows, macOS y Linux.
 - Software necesario: Puedes usar la versión de escritorio de Figma o acceder directamente desde la [plataforma web](https://www.figma.com) para visualizar y editar el archivo fuente (.fig).
 
 ---

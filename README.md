@@ -1,7 +1,4 @@
-# FIGMA-PROJECT
-
-# Proyecto: EW
-
+# FIGMA-PROJECT : EW
 Este proyecto contiene una aplicación interactiva diseñada para facilitar el acceso y gestión de entrenamientos y ejercicios en un entorno digital. A continuación, se describe su funcionalidad y cómo puedes acceder a los recursos.
 
 ## Descripción General

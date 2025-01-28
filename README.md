@@ -1,6 +1,11 @@
 # FIGMA-PROJECT : EW
 Este proyecto contiene una aplicación interactiva diseñada para facilitar el acceso y gestión de entrenamientos y ejercicios en un entorno digital. A continuación, se describe su funcionalidad y cómo puedes acceder a los recursos.
 
+## Prueba Prototipo
+A continuación, se proporciona un enlace al prototipo, en el cual se puede navegar a través de las diferentes páginas de la interfaz diseñada.
+
+- [PRUEBA EN VIVO](www.figma.com/proto/wSt5frmLCKg99vcr6AbyVg/PROYECTO?node-id=4-413&p=f&t=cCHgLbaT8jzv8Mcm-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)
+
 ## Descripción General
 La interfaz de la aplicación ofrece:
 - **Inicio de sesión y registro**: Mockup de opciones para usuarios que pueden registrarse con su correo electrónico y contraseña o iniciar sesión para acceder a sus datos.

@@ -6,8 +6,8 @@ Este proyecto contiene una aplicación interactiva diseñada para facilitar el a
 
 ## Descripción General
 
-La aplicación ofrece:
-- **Inicio de sesión y registro**: Los usuarios pueden registrarse con su correo electrónico y contraseña o iniciar sesión para acceder a sus datos.
+La interfaz de la aplicación ofrece:
+- **Inicio de sesión y registro**: Mockup de opciones para usuarios que pueden registrarse con su correo electrónico y contraseña o iniciar sesión para acceder a sus datos.
 - **Selección de grupos musculares**: Elige fácilmente entre grupos musculares como pecho, espalda, brazos, piernas y más.
 - **Gestión de perfil**: Los usuarios pueden gestionar información personal como nombre, correo y un historial de actividades.
 - **Ejercicios destacados**: Acceso rápido a ejercicios clave para diferentes músculos.

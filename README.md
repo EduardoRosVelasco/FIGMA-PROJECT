@@ -13,7 +13,7 @@ La interfaz de la aplicación ofrece:
 ## Contenido Incluido
 El archivo del proyecto contiene:
 1. **Diseño de interfaces**: Mockups y ejemplos de pantallas, detallando cada función de la aplicación.
-2. **Documentación PDF**: Una descripción detallada de las funcionalidades clave, incluida la estructura de navegación y el flujo de usuarios. Puedes ver el archivo [PROYECTO.pdf]
+2. **Documentación PDF**: Una descripción detallada de las funcionalidades clave, incluida la estructura de navegación y el flujo de usuarios. Puedes ver el archivo [PROYECTO.pdf](./PROYECTO.pdf)
 
 ## Descargar el Proyecto
 Si deseas acceder al archivo fuente completo del proyecto para explorarlo más a fondo, puedes descargarlo directamente desde el siguiente enlace:

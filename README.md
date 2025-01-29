@@ -4,7 +4,7 @@ Este proyecto contiene una aplicación interactiva diseñada para facilitar el a
 ## Prueba Prototipo
 A continuación, se proporciona un enlace al prototipo, en el cual se puede navegar a través de las diferentes páginas de la interfaz diseñada.
 
-- [PRUEBA EN VIVO](https://www.figma.com/proto/wSt5frmLCKg99vcr6AbyVg/PROYECTO?t=aLtS9RXUydMebR4Y-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&node-id=4-413)
+- [PRUEBA EN VIVO](https://www.figma.com/proto/wSt5frmLCKg99vcr6AbyVg/PROYECTO?node-id=0-1&t=4rFejXF9ScTfcHsU-1)
 
 ## Descripción General
 La interfaz de la aplicación ofrece:
